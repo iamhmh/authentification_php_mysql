@@ -7,7 +7,7 @@ Il s'agit d'un projet réalisé dans le cadre de ma formation de développeur we
 
 1. Cloner le projet
 2. Importer la base de données
-3. Modifier les paramètres de connexion à la base de données dans le fichier `config.php`
+3. Modifier les paramètres de connexion à la base de données dans le fichier `db.php`
 
 ## Fonctionnalités
 
